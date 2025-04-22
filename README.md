@@ -22,3 +22,8 @@ By analyzing these key insights, businesses can make informed decisions about
 # 2.Sales Force Management:
 # 3.Targeted Marketing:
 ![1000010129](https://github.com/user-attachments/assets/a4ba05e3-c18a-4155-b81d-e6051b522a66)
+
+
+# 2.Madhav E-commerce Sales Dashboard 
+In this dashboard used Slicer and filter and different charts to make it interactive and easy to understand. 
+![1000010168](https://github.com/user-attachments/assets/1837b7ac-61b0-4ed7-abc4-11dc24624e2a)
