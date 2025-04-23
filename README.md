@@ -21,6 +21,7 @@ By analyzing these key insights, businesses can make informed decisions about
 # 1.Profitability Improvement:
 # 2.Sales Force Management:
 # 3.Targeted Marketing:
+# Supestores Sales Dashboard 
 ![1000010129](https://github.com/user-attachments/assets/a4ba05e3-c18a-4155-b81d-e6051b522a66)
 
 
